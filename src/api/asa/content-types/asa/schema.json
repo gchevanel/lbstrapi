@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "asas",
+  "info": {
+    "singularName": "asa",
+    "pluralName": "asas",
+    "displayName": "asa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "as": {
+      "type": "email"
+    }
+  }
+}
