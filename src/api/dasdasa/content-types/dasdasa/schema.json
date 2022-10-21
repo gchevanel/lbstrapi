@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dasdasas",
+  "info": {
+    "singularName": "dasdasa",
+    "pluralName": "dasdasas",
+    "displayName": "dasdasa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ssss": {
+      "type": "string"
+    }
+  }
+}
